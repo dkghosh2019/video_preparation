@@ -1,5 +1,5 @@
-    video_language = "en"  
-    title_language = "en" 
+    video_language = "fr"  
+    title_language = "fr" 
     location_description = "New York NY"
     video_category_id = 22 
     video_privacy_status = "private"  
