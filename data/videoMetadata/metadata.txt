@@ -1,0 +1,7 @@
+    video_language = "en"  
+    title_language = "en" 
+    #location_description = "New York" 
+    location_description = "New York NY"
+    video_category_id = 22 
+    video_privacy_status = "private"  
+    publishAt= "2020-12-12T00:00:00Z"
